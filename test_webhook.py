@@ -8,7 +8,7 @@ data = {
             "value": {
                 "messages": [{
                     "from": "972503920297",
-                    "text": {"body": "4 eggs, 1 tomato"},
+                    "text": {"body": "סיננתי את השמן"},
                     "type": "text"
                 }]
             }

@@ -28,6 +28,3 @@ class CaloriesService:
         response = await self.llm.ask(system_prompt=system_prompt, user_prompt=text)
 
         return response
-
-    def parse_food(self):
-        pass

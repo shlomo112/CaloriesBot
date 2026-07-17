@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, Request, Query, Response
+from fastapi import APIRouter, Request, Response, Query, Depends
 from fastapi.responses import PlainTextResponse
 from dotenv import load_dotenv
 
